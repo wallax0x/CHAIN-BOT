@@ -1,6 +1,6 @@
 module.exports = {
   PREFIX: '.',
-  API_KEY: 'mag05678',
+  API_KEY: '',
   OWNER_JID: '5555936195112@s.whatsapp.net',
   GEMINI_API_KEY: 'AIzaSyAGongMnvrUeqaoQ7g_7O6LO2HZVKw3eTA',
   WEATHER_API_KEY: 'abd1ef45adfd4e629aa161144252206',
