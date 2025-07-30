@@ -1,0 +1,24 @@
+'Log files:
+/home/container/.npm/_logs/2025-07-30T13_59_25_595Z-debug-0.log
+
+# npm resolution error report
+
+While resolving: @whiskeysockets/baileys@6.7.18
+Found: sharp@0.34.2
+node_modules/sharp
+  sharp@"^0.34.2" from the root project
+
+Could not resolve dependency:
+peerOptional sharp@"^0.32.6" from @whiskeysockets/baileys@6.7.18
+node_modules/@whiskeysockets/baileys
+  @whiskeysockets/baileys@"^6.7.18" from the root project
+
+Conflicting peer dependency: sharp@0.32.6
+node_modules/sharp
+  peerOptional sharp@"^0.32.6" from @whiskeysockets/baileys@6.7.18
+  node_modules/@whiskeysockets/baileys
+    @whiskeysockets/baileys@"^6.7.18" from the root project
+
+Fix the upstream dependency conflict, or retry
+this command with --force or --legacy-peer-deps
+to accept an incorrect (and potentially broken) dependency resolution.

@@ -1,0 +1,33 @@
+{
+  "casais_ativos": {
+    "120363159760915162@g.us": {
+      "553399243727@s.whatsapp.net": {
+        "partner": "553399685595@s.whatsapp.net",
+        "startDate": "2025-06-20T19:24:32.250Z",
+        "groupJid": "120363159760915162@g.us"
+      }
+    }
+  },
+  "pedidos_pendentes": {
+    "120363381837103281@g.us": {
+      "553193095487@s.whatsapp.net": {
+        "target": "553497764025@s.whatsapp.net",
+        "timestamp": 1750441802949,
+        "groupJid": "120363381837103281@g.us"
+      },
+      "558187396331@s.whatsapp.net": {
+        "target": "558994534669@s.whatsapp.net",
+        "timestamp": 1750450929930,
+        "groupJid": "120363381837103281@g.us",
+        "messageId": "C0CAEE8024BAC972B63E6B0127390CC5"
+      },
+      "595991703501@s.whatsapp.net": {
+        "target": "553496918704@s.whatsapp.net",
+        "timestamp": 1750454427113,
+        "groupJid": "120363381837103281@g.us",
+        "messageId": "E20689CB135E27BC03B76AD93F80A2B1"
+      }
+    },
+    "120363159760915162@g.us": {}
+  }
+}

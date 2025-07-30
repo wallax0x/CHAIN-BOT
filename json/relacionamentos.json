@@ -1,0 +1,71 @@
+{
+  "casais": {
+    "558781560283@s.whatsapp.net": {
+      "partner": "557582798313@s.whatsapp.net",
+      "startDate": "2025-06-22T17:19:22.607Z",
+      "status": "namorando"
+    },
+    "554384911332@s.whatsapp.net": {
+      "partner": "5521997591730@s.whatsapp.net",
+      "startDate": "2025-07-16T23:01:44.930Z",
+      "status": "namorando"
+    }
+  },
+  "propostas": {
+    "558781560283@s.whatsapp.net": {
+      "from": "558187396331@s.whatsapp.net",
+      "type": "namoro",
+      "timestamp": 1750612726298
+    },
+    "559884566149@s.whatsapp.net": {
+      "from": "554591455304@s.whatsapp.net",
+      "type": "namoro",
+      "timestamp": 1750691420465
+    },
+    "556193310064@s.whatsapp.net": {
+      "from": "558187396331@s.whatsapp.net",
+      "type": "namoro",
+      "timestamp": 1750703510101
+    },
+    "556699356535@s.whatsapp.net": {
+      "from": "558781774736@s.whatsapp.net",
+      "type": "namoro",
+      "timestamp": 1751155150871
+    },
+    "557582798313@s.whatsapp.net": {
+      "from": "558781560283@s.whatsapp.net",
+      "type": "casamento",
+      "timestamp": 1751419791305
+    },
+    "5511910898675@s.whatsapp.net": {
+      "from": "559181513446@s.whatsapp.net",
+      "type": "namoro",
+      "timestamp": 1752708232966
+    },
+    "5511973310608@s.whatsapp.net": {
+      "from": "557581464114@s.whatsapp.net",
+      "type": "namoro",
+      "timestamp": 1751839060465
+    },
+    "559181513446@s.whatsapp.net": {
+      "from": "558781639603@s.whatsapp.net",
+      "type": "namoro",
+      "timestamp": 1751994533233
+    },
+    "554384911332@s.whatsapp.net": {
+      "from": "5521997591730@s.whatsapp.net",
+      "type": "namoro",
+      "timestamp": 1752705465151
+    },
+    "556384193011@s.whatsapp.net": {
+      "from": "553498749538@s.whatsapp.net",
+      "type": "namoro",
+      "timestamp": 1752708595871
+    },
+    "556598078291@s.whatsapp.net": {
+      "from": "559181513446@s.whatsapp.net",
+      "type": "namoro",
+      "timestamp": 1752708810382
+    }
+  }
+}

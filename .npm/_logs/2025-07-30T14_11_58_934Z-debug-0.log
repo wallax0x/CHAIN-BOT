@@ -1,0 +1,200 @@
+0 verbose cli /usr/local/bin/node /usr/local/bin/npm
+1 info using npm@11.5.1
+2 info using node@v20.19.4
+3 silly config load:file:/usr/local/lib/node_modules/npm/npmrc
+4 silly config load:file:/home/container/.npmrc
+5 silly config load:file:/usr/local/etc/npmrc
+6 verbose title npm install
+7 verbose argv "install"
+8 verbose logfile logs-max:10 dir:/home/container/.npm/_logs/2025-07-30T14_11_58_934Z-
+9 verbose logfile /home/container/.npm/_logs/2025-07-30T14_11_58_934Z-debug-0.log
+10 silly logfile start cleaning logs, removing 1 files
+11 silly logfile done cleaning log files
+12 silly packumentCache heap:2197815296 maxSize:549453824 maxEntrySize:274726912
+13 silly idealTree buildDeps
+14 silly fetch manifest eslint@^6.0.0 || ^7.0.0 || >=8.0.0
+15 silly packumentCache full:https://registry.npmjs.org/eslint cache-miss
+16 verbose shrinkwrap failed to load node_modules/.package-lock.json out of date, updated: node_modules
+17 http cache https://registry.npmjs.org/eslint 45ms (cache hit)
+18 silly packumentCache full:https://registry.npmjs.org/eslint set size:1817897 disposed:false
+19 silly fetch manifest jiti@*
+20 silly packumentCache full:https://registry.npmjs.org/jiti cache-miss
+21 http cache https://registry.npmjs.org/jiti 213ms (cache hit)
+22 silly packumentCache full:https://registry.npmjs.org/jiti set size:373202 disposed:false
+23 silly placeDep ROOT eslint@9.32.0 OK for: @eslint-community/eslint-utils@4.7.0 want: ^6.0.0 || ^7.0.0 || >=8.0.0
+24 silly fetch manifest ajv@^6.12.4
+25 silly packumentCache full:https://registry.npmjs.org/ajv cache-miss
+26 silly fetch manifest chalk@^4.0.0
+27 silly packumentCache full:https://registry.npmjs.org/chalk cache-miss
+28 silly fetch manifest espree@^10.4.0
+29 silly packumentCache full:https://registry.npmjs.org/espree cache-miss
+30 http cache https://registry.npmjs.org/chalk 13ms (cache hit)
+31 silly packumentCache full:https://registry.npmjs.org/chalk set size:122578 disposed:false
+32 silly fetch manifest ignore@^5.2.0
+33 silly packumentCache full:https://registry.npmjs.org/ignore cache-miss
+34 http cache https://registry.npmjs.org/espree 19ms (cache hit)
+35 silly packumentCache full:https://registry.npmjs.org/espree set size:315544 disposed:false
+36 silly fetch manifest esquery@^1.5.0
+37 silly packumentCache full:https://registry.npmjs.org/esquery cache-miss
+38 http cache https://registry.npmjs.org/ajv 31ms (cache hit)
+39 silly packumentCache full:https://registry.npmjs.org/ajv set size:1126055 disposed:false
+40 silly fetch manifest esutils@^2.0.2
+41 silly packumentCache full:https://registry.npmjs.org/esutils cache-miss
+42 http cache https://registry.npmjs.org/esquery 28ms (cache hit)
+43 silly packumentCache full:https://registry.npmjs.org/esquery set size:46301 disposed:false
+44 silly fetch manifest find-up@^5.0.0
+45 silly packumentCache full:https://registry.npmjs.org/find-up cache-miss
+46 http cache https://registry.npmjs.org/esutils 11ms (cache hit)
+47 silly packumentCache full:https://registry.npmjs.org/esutils set size:29522 disposed:false
+48 silly fetch manifest minimatch@^3.1.2
+49 silly packumentCache full:https://registry.npmjs.org/minimatch cache-miss
+50 http cache https://registry.npmjs.org/ignore 44ms (cache hit)
+51 silly packumentCache full:https://registry.npmjs.org/ignore set size:237380 disposed:false
+52 silly fetch manifest @eslint/js@9.32.0
+53 silly packumentCache full:https://registry.npmjs.org/@eslint%2fjs cache-miss
+54 http cache https://registry.npmjs.org/find-up 27ms (cache hit)
+55 silly packumentCache full:https://registry.npmjs.org/find-up set size:38503 disposed:false
+56 silly fetch manifest optionator@^0.9.3
+57 silly packumentCache full:https://registry.npmjs.org/optionator cache-miss
+58 http cache https://registry.npmjs.org/minimatch 28ms (cache hit)
+59 silly packumentCache full:https://registry.npmjs.org/minimatch set size:298903 disposed:false
+60 silly fetch manifest cross-spawn@^7.0.6
+61 silly packumentCache full:https://registry.npmjs.org/cross-spawn cache-miss
+62 http cache https://registry.npmjs.org/@eslint%2fjs 33ms (cache hit)
+63 silly packumentCache full:https://registry.npmjs.org/@eslint%2fjs set size:117726 disposed:false
+64 silly fetch manifest glob-parent@^6.0.2
+65 silly packumentCache full:https://registry.npmjs.org/glob-parent cache-miss
+66 http cache https://registry.npmjs.org/glob-parent 10ms (cache hit)
+67 silly packumentCache full:https://registry.npmjs.org/glob-parent set size:42445 disposed:false
+68 silly fetch manifest imurmurhash@^0.1.4
+69 silly packumentCache full:https://registry.npmjs.org/imurmurhash cache-miss
+70 http cache https://registry.npmjs.org/cross-spawn 22ms (cache hit)
+71 silly packumentCache full:https://registry.npmjs.org/cross-spawn set size:109066 disposed:false
+72 silly fetch manifest @eslint/core@^0.15.0
+73 silly packumentCache full:https://registry.npmjs.org/@eslint%2fcore cache-miss
+74 http cache https://registry.npmjs.org/optionator 36ms (cache hit)
+75 silly packumentCache full:https://registry.npmjs.org/optionator set size:49651 disposed:false
+76 silly fetch manifest eslint-scope@^8.4.0
+77 silly packumentCache full:https://registry.npmjs.org/eslint-scope cache-miss
+78 http cache https://registry.npmjs.org/imurmurhash 12ms (cache hit)
+79 silly packumentCache full:https://registry.npmjs.org/imurmurhash set size:35819 disposed:false
+80 silly fetch manifest lodash.merge@^4.6.2
+81 silly packumentCache full:https://registry.npmjs.org/lodash.merge cache-miss
+82 http cache https://registry.npmjs.org/@eslint%2fcore 11ms (cache hit)
+83 silly packumentCache full:https://registry.npmjs.org/@eslint%2fcore set size:38908 disposed:false
+84 silly fetch manifest @humanfs/node@^0.16.6
+85 silly packumentCache full:https://registry.npmjs.org/@humanfs%2fnode cache-miss
+86 http cache https://registry.npmjs.org/eslint-scope 11ms (cache hit)
+87 silly packumentCache full:https://registry.npmjs.org/eslint-scope set size:89295 disposed:false
+88 silly fetch manifest @types/estree@^1.0.6
+89 silly packumentCache full:https://registry.npmjs.org/@types%2festree cache-miss
+90 http cache https://registry.npmjs.org/@humanfs%2fnode 8ms (cache hit)
+91 silly packumentCache full:https://registry.npmjs.org/@humanfs%2fnode set size:35754 disposed:false
+92 silly fetch manifest fast-deep-equal@^3.1.3
+93 silly packumentCache full:https://registry.npmjs.org/fast-deep-equal cache-miss
+94 http cache https://registry.npmjs.org/lodash.merge 13ms (cache hit)
+95 silly packumentCache full:https://registry.npmjs.org/lodash.merge set size:78575 disposed:false
+96 silly fetch manifest @eslint/eslintrc@^3.3.1
+97 silly packumentCache full:https://registry.npmjs.org/@eslint%2feslintrc cache-miss
+98 http cache https://registry.npmjs.org/@types%2festree 11ms (cache hit)
+99 silly packumentCache full:https://registry.npmjs.org/@types%2festree set size:74075 disposed:false
+100 silly fetch manifest file-entry-cache@^8.0.0
+101 silly packumentCache full:https://registry.npmjs.org/file-entry-cache cache-miss
+102 http cache https://registry.npmjs.org/@eslint%2feslintrc 10ms (cache hit)
+103 silly packumentCache full:https://registry.npmjs.org/@eslint%2feslintrc set size:156464 disposed:false
+104 silly fetch manifest @eslint/plugin-kit@^0.3.4
+105 silly packumentCache full:https://registry.npmjs.org/@eslint%2fplugin-kit cache-miss
+106 http cache https://registry.npmjs.org/file-entry-cache 14ms (cache hit)
+107 silly packumentCache full:https://registry.npmjs.org/file-entry-cache set size:110468 disposed:false
+108 silly fetch manifest @types/json-schema@^7.0.15
+109 silly packumentCache full:https://registry.npmjs.org/@types%2fjson-schema cache-miss
+110 http cache https://registry.npmjs.org/fast-deep-equal 26ms (cache hit)
+111 silly packumentCache full:https://registry.npmjs.org/fast-deep-equal set size:48634 disposed:false
+112 silly fetch manifest eslint-visitor-keys@^4.2.1
+113 silly packumentCache full:https://registry.npmjs.org/eslint-visitor-keys cache-miss
+114 http cache https://registry.npmjs.org/@eslint%2fplugin-kit 18ms (cache hit)
+115 silly packumentCache full:https://registry.npmjs.org/@eslint%2fplugin-kit set size:48907 disposed:false
+116 silly fetch manifest @eslint/config-array@^0.21.0
+117 silly packumentCache full:https://registry.npmjs.org/@eslint%2fconfig-array cache-miss
+118 http cache https://registry.npmjs.org/@types%2fjson-schema 16ms (cache hit)
+119 silly packumentCache full:https://registry.npmjs.org/@types%2fjson-schema set size:44687 disposed:false
+120 silly fetch manifest @humanwhocodes/retry@^0.4.2
+121 silly packumentCache full:https://registry.npmjs.org/@humanwhocodes%2fretry cache-miss
+122 http cache https://registry.npmjs.org/eslint-visitor-keys 15ms (cache hit)
+123 silly packumentCache full:https://registry.npmjs.org/eslint-visitor-keys set size:65553 disposed:false
+124 silly fetch manifest escape-string-regexp@^4.0.0
+125 silly packumentCache full:https://registry.npmjs.org/escape-string-regexp cache-miss
+126 http cache https://registry.npmjs.org/@humanwhocodes%2fretry 15ms (cache hit)
+127 silly packumentCache full:https://registry.npmjs.org/@humanwhocodes%2fretry set size:42348 disposed:false
+128 silly fetch manifest @eslint/config-helpers@^0.3.0
+129 silly packumentCache full:https://registry.npmjs.org/@eslint%2fconfig-helpers cache-miss
+130 http cache https://registry.npmjs.org/@eslint%2fconfig-array 20ms (cache hit)
+131 silly packumentCache full:https://registry.npmjs.org/@eslint%2fconfig-array set size:48479 disposed:false
+132 silly fetch manifest @humanwhocodes/module-importer@^1.0.1
+133 silly packumentCache full:https://registry.npmjs.org/@humanwhocodes%2fmodule-importer cache-miss
+134 http cache https://registry.npmjs.org/escape-string-regexp 15ms (cache hit)
+135 silly packumentCache full:https://registry.npmjs.org/escape-string-regexp set size:22244 disposed:false
+136 silly fetch manifest json-stable-stringify-without-jsonify@^1.0.1
+137 silly packumentCache full:https://registry.npmjs.org/json-stable-stringify-without-jsonify cache-miss
+138 http cache https://registry.npmjs.org/@eslint%2fconfig-helpers 13ms (cache hit)
+139 silly packumentCache full:https://registry.npmjs.org/@eslint%2fconfig-helpers set size:22033 disposed:false
+140 http cache https://registry.npmjs.org/json-stable-stringify-without-jsonify 9ms (cache hit)
+141 silly packumentCache full:https://registry.npmjs.org/json-stable-stringify-without-jsonify set size:5808 disposed:false
+142 http cache https://registry.npmjs.org/@humanwhocodes%2fmodule-importer 12ms (cache hit)
+143 silly packumentCache full:https://registry.npmjs.org/@humanwhocodes%2fmodule-importer set size:9516 disposed:false
+144 silly fetch manifest typescript@>=4.8.4 <5.9.0
+145 silly packumentCache full:https://registry.npmjs.org/typescript cache-miss
+146 http cache https://registry.npmjs.org/typescript 38ms (cache hit)
+147 silly packumentCache full:https://registry.npmjs.org/typescript set size:14486456 disposed:false
+148 silly placeDep ROOT typescript@5.8.3 OK for: @typescript-eslint/eslint-plugin@8.34.1 want: >=4.8.4 <5.9.0
+149 silly fetch manifest sharp@^0.32.6
+150 silly packumentCache full:https://registry.npmjs.org/sharp cache-miss
+151 http cache https://registry.npmjs.org/sharp 8ms (cache hit)
+152 silly packumentCache full:https://registry.npmjs.org/sharp set size:972854 disposed:false
+153 verbose stack Error: could not resolve
+153 verbose stack     at PlaceDep.failPeerConflict (/usr/local/lib/node_modules/npm/node_modules/@npmcli/arborist/lib/place-dep.js:503:25)
+153 verbose stack     at new PlaceDep (/usr/local/lib/node_modules/npm/node_modules/@npmcli/arborist/lib/place-dep.js:157:21)
+153 verbose stack     at #buildDepStep (/usr/local/lib/node_modules/npm/node_modules/@npmcli/arborist/lib/arborist/build-ideal-tree.js:933:18)
+153 verbose stack     at async Arborist.buildIdealTree (/usr/local/lib/node_modules/npm/node_modules/@npmcli/arborist/lib/arborist/build-ideal-tree.js:182:7)
+153 verbose stack     at async Promise.all (index 1)
+153 verbose stack     at async Arborist.reify (/usr/local/lib/node_modules/npm/node_modules/@npmcli/arborist/lib/arborist/reify.js:126:5)
+153 verbose stack     at async Install.exec (/usr/local/lib/node_modules/npm/lib/commands/install.js:150:5)
+153 verbose stack     at async Npm.exec (/usr/local/lib/node_modules/npm/lib/npm.js:208:9)
+153 verbose stack     at async module.exports (/usr/local/lib/node_modules/npm/lib/cli/entry.js:67:5)
+154 error code ERESOLVE
+155 error ERESOLVE could not resolve
+156 error
+157 error While resolving: @whiskeysockets/baileys@6.7.18
+157 error Found: sharp@0.34.2[2m[22m
+157 error [2mnode_modules/sharp[22m
+157 error   sharp@"^0.34.2" from the root project
+157 error
+157 error Could not resolve dependency:
+157 error peerOptional sharp@"^0.32.6" from @whiskeysockets/baileys@6.7.18[2m[22m
+157 error [2mnode_modules/@whiskeysockets/baileys[22m
+157 error   @whiskeysockets/baileys@"^6.7.18" from the root project
+157 error
+157 error Conflicting peer dependency: sharp@0.32.6[2m[22m
+157 error [2mnode_modules/sharp[22m
+157 error   peerOptional sharp@"^0.32.6" from @whiskeysockets/baileys@6.7.18[2m[22m
+157 error   [2mnode_modules/@whiskeysockets/baileys[22m
+157 error     @whiskeysockets/baileys@"^6.7.18" from the root project
+157 error
+157 error Fix the upstream dependency conflict, or retry
+157 error this command with --force or --legacy-peer-deps
+157 error to accept an incorrect (and potentially broken) dependency resolution.
+158 error
+158 error
+158 error For a full report see:
+158 error /home/container/.npm/_logs/2025-07-30T14_11_58_934Z-eresolve-report.txt
+159 silly unfinished npm timer reify 1753884719366
+160 silly unfinished npm timer reify:loadTrees 1753884719370
+161 silly unfinished npm timer idealTree:buildDeps 1753884719531
+162 silly unfinished npm timer idealTree:node_modules/@whiskeysockets/baileys 1753884720273
+163 verbose cwd /home/container
+164 verbose os Linux 6.11.5+bpo-amd64
+165 verbose node v20.19.4
+166 verbose npm  v11.5.1
+167 verbose exit 1
+168 verbose code 1
+169 error A complete log of this run can be found in: /home/container/.npm/_logs/2025-07-30T14_11_58_934Z-debug-0.log
