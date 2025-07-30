@@ -266,7 +266,8 @@ Abra este arquivo em um editor de texto. Você encontrará uma estrutura `module
 
 * **`API_KEY`**
     * Chave de API principal do seu bot, se você usar algum serviço próprio.
-    * **Exemplo:** `'mag05678'`
+    * * **Onde conseguir:** Obtenha uma chave no [Bronxys](https://api.bronxyshost.com.br/).
+    * **Exemplo:** `'minhapi87'`
 
 * **`OWNER_JID`**
     * O seu número de WhatsApp no formato JID (Jabber ID). Este número terá acesso total aos comandos de dono.
