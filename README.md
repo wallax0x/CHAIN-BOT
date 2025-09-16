@@ -316,7 +316,7 @@ Abra este arquivo em um editor de texto. Você encontrará uma estrutura `module
 
 Este é um projeto de código aberto e sua ajuda é muito bem-vinda! Se você gostou do projeto e quer me ajudar a mantê-lo ativo e com custos de servidor, considere fazer uma doação.
 
-**Minha chave Pix é o meu número de WhatsApp:** `5555936195112`
+**Minha chave Pix é o meu número de WhatsApp:**
 
 Se você é desenvolvedor, pode contribuir com código:
 1.  Faça um **Fork** do projeto.
