@@ -308,7 +308,7 @@ Abra este arquivo em um editor de texto. Você encontrará uma estrutura `module
     * **Onde conseguir:** Em sites como [ConvertAPI](https://www.convertapi.com/).
     * **Exemplo:** `'9ZL2wE...'`
 
-> **⚠️ Atenção:** Suas chaves de API são secretas. Nunca compartilhe o arquivo `config.js` preenchido com ninguém. Se você for subir uma versão pública do código, certifique-se de que este arquivo não seja incluído (usando um arquivo `.gitignore`).
+> **⚠️ Atenção:** Suas chaves de API são secretas. Nunca compartilhe o arquivo `config.js` preenchido com ninguém.
 
 ---
 
